@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaSelfHost", "KatanaSelfHost\KatanaSelfHost.csproj", "{93D811A5-DFC0-4BA0-AF4A-58F8B2969562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D811A5-DFC0-4BA0-AF4A-58F8B2969562}.Debug|x86.ActiveCfg = Debug|x86
+		{93D811A5-DFC0-4BA0-AF4A-58F8B2969562}.Debug|x86.Build.0 = Debug|x86
+		{93D811A5-DFC0-4BA0-AF4A-58F8B2969562}.Release|x86.ActiveCfg = Release|x86
+		{93D811A5-DFC0-4BA0-AF4A-58F8B2969562}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = KatanaSelfHost\KatanaSelfHost.csproj
+	EndGlobalSection
+EndGlobal
