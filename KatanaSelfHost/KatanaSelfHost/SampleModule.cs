@@ -1,3 +1,8 @@
+/// <summary>
+/// Nancy Documentation
+/// https://github.com/NancyFx/Nancy/wiki/Defining-routes
+/// </summary>
+
 using System;
 using Nancy;
 
